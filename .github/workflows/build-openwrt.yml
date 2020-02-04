@@ -26,9 +26,9 @@ env:
   REPO_BRANCH: master
   CONFIG_FILE: .config
   DIY_SH: diy.sh
-  FREE_UP_DISK: false
-  SSH_ACTIONS: false
-  UPLOAD_BIN_DIR: false
+  FREE_UP_DISK: ture
+  SSH_ACTIONS: ture
+  UPLOAD_BIN_DIR: ture
   UPLOAD_FIRMWARE: true
   TZ: Asia/Shanghai
 
